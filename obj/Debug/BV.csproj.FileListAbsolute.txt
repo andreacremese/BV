@@ -1,0 +1,9 @@
+C:\Users\andrea\BV\BV\bin\Debug\BV.exe.config
+C:\Users\andrea\BV\bin\Debug\BV.exe.config
+C:\Users\andrea\BV\bin\Debug\BV.exe
+C:\Users\andrea\BV\bin\Debug\BV.pdb
+C:\Users\andrea\BV\obj\Debug\BV.csprojResolveAssemblyReference.cache
+C:\Users\andrea\BV\obj\Debug\BV.exe
+C:\Users\andrea\BV\obj\Debug\BV.pdb
+C:\Users\andrea\BV\bin\Debug\BV.Library.dll
+C:\Users\andrea\BV\bin\Debug\BV.Library.pdb

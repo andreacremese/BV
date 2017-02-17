@@ -1,0 +1,10 @@
+C:\Users\andrea\BV.Library\bin\Debug\BV.Library.dll
+C:\Users\andrea\BV.Library\bin\Debug\BV.Library.pdb
+C:\Users\andrea\BV.Library\obj\Debug\BV.Library.csprojResolveAssemblyReference.cache
+C:\Users\andrea\BV.Library\obj\Debug\BV.Library.dll
+C:\Users\andrea\BV.Library\obj\Debug\BV.Library.pdb
+C:\Users\andrea\BV\BV.Library\bin\Debug\BV.Library.dll
+C:\Users\andrea\BV\BV.Library\bin\Debug\BV.Library.pdb
+C:\Users\andrea\BV\BV.Library\obj\Debug\BV.Library.csprojResolveAssemblyReference.cache
+C:\Users\andrea\BV\BV.Library\obj\Debug\BV.Library.dll
+C:\Users\andrea\BV\BV.Library\obj\Debug\BV.Library.pdb
