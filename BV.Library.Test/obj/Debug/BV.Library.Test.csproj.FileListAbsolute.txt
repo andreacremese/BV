@@ -1,8 +1,0 @@
-C:\Users\andrea\BV\BV.Library.Test\bin\Debug\BVC.Library.Test.dll
-C:\Users\andrea\BV\BV.Library.Test\bin\Debug\BVC.Library.Test.pdb
-C:\Users\andrea\BV\BV.Library.Test\bin\Debug\BV.Library.dll
-C:\Users\andrea\BV\BV.Library.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-C:\Users\andrea\BV\BV.Library.Test\bin\Debug\BV.Library.pdb
-C:\Users\andrea\BV\BV.Library.Test\obj\Debug\BV.Library.Test.csprojResolveAssemblyReference.cache
-C:\Users\andrea\BV\BV.Library.Test\obj\Debug\BVC.Library.Test.dll
-C:\Users\andrea\BV\BV.Library.Test\obj\Debug\BVC.Library.Test.pdb
